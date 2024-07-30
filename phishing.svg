@@ -1,0 +1,7 @@
+<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="20" font-family="Arial" font-size="20" fill="red">Important</text>
+  <text x="10" y="50" font-family="Arial" font-size="16" fill="black">The New Internet Banking Can be Accessed on Following URL:</text>
+  <text x="10" y="80" font-family="Arial" font-size="16" fill="black">URL: https://evil.com</text>
+  <text x="10" y="110" font-family="Arial" font-size="16" fill="black">QR Code for Quick Access:</text>
+  <image x="10" y="130" width="200" height="200" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAEiAQAAAAB1xeIbAAABjElEQVR4nO2aQW6zMBCFv/cbqUtzgxwFrtwbwFFygErxshLodWGc9E8X7YZAgmcDmE/iaWSNZ56Q+T3Gf3+AoFKVqlSlKrV3Sks0QGqAVFb6TXUdgups2xdQHz+lnmDb9v/U43W9NNUs19RC9w4e2w9MAkGYNtN1BKq5exZx5S9WqsR97k16+9ny71X9a1DR9gBI7ZxPWNvTPfV4XQegRklSC3SXYGDObc7Wul6ayjXnVmVMmuXvK9voOg619PJJkk621M5ibOe679en7EtwLvo+N3hIDepTg/pNdb02de1zZnlUmCB+5t1uUltKz17VPzdFnl+H650vwR6iDWW49bBX9c9N5YxnT2EAIE7fStDyYq/qn5squ70EEOwhTgCh5n5NKtf70s8sBo6Iud6r1vv1qauPeZtmpTZUH/MRVFq8evVJ8pAaIFZP4bHUeHI5Zs/VU1iVuvcx6d4F3VmYVP37VamS+2ggldXxZARhO10Hom4+Zp6ozpKHMuHuXv2TUqr/RlWqUpWq1CGoLzCzxC/JfdzcAAAAAElFTkSuQmCC"/>
+</svg>
