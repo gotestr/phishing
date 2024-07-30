@@ -1,0 +1,36 @@
+<svg width="400" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="600" fill="#f3f2f1" />
+  
+  <!-- Header -->
+  <rect width="100%" height="60" fill="#0078d4" />
+  <text x="50%" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle">Microsoft</text>
+  
+  <!-- Sign-in box -->
+  <rect x="50" y="100" width="300" height="400" fill="white" stroke="#e1e1e1" stroke-width="1" />
+  
+  <!-- Logo -->
+  <rect x="170" y="130" width="60" height="60" fill="none" stroke="#e1e1e1" stroke-width="1" />
+  <rect x="175" y="135" width="25" height="25" fill="#f25022" />
+  <rect x="200" y="135" width="25" height="25" fill="#7fba00" />
+  <rect x="175" y="160" width="25" height="25" fill="#00a4ef" />
+  <rect x="200" y="160" width="25" height="25" fill="#ffb900" />
+  
+  <!-- Sign-in text -->
+  <text x="200" y="230" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">Sign in</text>
+  
+  <!-- Email input -->
+  <rect x="80" y="260" width="240" height="40" fill="none" stroke="#e1e1e1" />
+  <text x="90" y="285" font-family="Arial" font-size="14" fill="#888">Email, phone, or Skype</text>
+  
+  <!-- Next button -->
+  <a href="https://www.nstcyber.ai/" target="_blank">
+    <rect x="80" y="320" width="240" height="40" fill="#0078d4" />
+    <text x="200" y="345" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Next</text>
+  </a>
+  
+  <!-- Footer text -->
+  <a href="https://www.nstcyber.ai/" target="_blank">
+    <text x="50%" y="560" font-family="Arial" font-size="12" fill="#0078d4" text-anchor="middle">Click here to login</text>
+  </a>
+</svg>
